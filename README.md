@@ -7,3 +7,4 @@ On the README, add your name and mention one thing about yourself.
 Merge your branch into the main branch.  
   
 Simon: Hello hello.
+Yiming: Hello World
